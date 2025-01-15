@@ -1,3 +1,7 @@
 -Bacon
 -Eggs
 -Xbox
+-Milk
+-Sugar
+-Salt
+-Bread
